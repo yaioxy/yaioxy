@@ -1,16 +1,15 @@
-## Hi there 👋
+# About Me
 
-I do audits
+Hey 👋, I’m **Yaioxy** — an independent **Security Researcher** focused on **Solidity smart contract auditing**.
 
-Security Researcher 
+I actively compete in top-tier audit contests such as **Sherlock**, **Code4rena**, **CodeHawks**, and **Cantina**, where I’ve identified **50+ vulnerabilities** across a wide range of DeFi protocols.
 
-Over 50 Vulnerabilities found.
+I’m a **Certified Solidity Smart Contract Developer** [SSCD+](https://updraft.cyfrin.io/certifications/solidity-certification) by **Cyfrin**, a certification recognized across the Web3 ecosystem for its rigorous coverage of **Solidity, EVM internals, gas optimization, and smart contract security.**
 
-SSDC+ Certified
-
-- X (Twitter) at https://x.com/yaioxy
+I focus on understanding protocols at a deep level to uncover subtle vulnerabilities that are easy to miss.
 
 ---
+
 
 # Contests 
 
