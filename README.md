@@ -16,7 +16,7 @@ SSDC+ Certified
 
 | №  | Project | Platform | Category | Vulnerabilities | Report |
 |:--:|:--|:--|:--|:--|:--|
-| 01 | [Munchables](https://code4rena.com/audits/2024-07-munchables#top) | Code4rena | GameFi | 1H | [📑](https://code4rena.com/reports/2024-07-munchables) |
+| 01 | [Munchables](https://code4rena.com/audits/2024-07-munchables#top) | Code4rena | NFT Game | 1H | [📑](https://code4rena.com/reports/2024-07-munchables) |
 | 02 | [TraitForge](https://code4rena.com/audits/2024-07-traitforge#top) | Code4rena | NFT Game | 4H / 3M | [📑](https://code4rena.com/reports/2024-07-traitforge) |
 | 03 | predict.fun | Sherlock | Lending | N/A | [📑](https://audits.sherlock.xyz) |
 | 04 | Liquid Staking | CodeHawks | Staking | 1L | [📑](https://codehawks.cyfrin.io/c/2024-09-stakelink/results?lt=contest&page=1&sc=reward&sj=reward&t=report) |
