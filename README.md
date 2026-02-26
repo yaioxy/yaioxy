@@ -31,4 +31,4 @@ I focus on understanding protocols at a deep level to uncover subtle vulnerabili
 | 14 | USG – Tangent | Sherlock | CDP | 1H / 1M | [📑](https://audits.sherlock.xyz/contests/1073/report) |
 | 15 | Rain | HackenProof | Prediction Market | 2H | [📑](https://hackenproof.com/audit-programs/rain-smart-contract-audit-contest?tab=reports) |
 | 16 | Alignerz | Dual Guard | Vesting, NFT | 6H / 2M | [📑](https://github.com/dualguard/2025-11-judging-alignerz/tree/main/results/valid) |
-
+| 17 | Monolith Stablecoin Factory | Sherlock | CDP | 1M | [📑]([https://audits.sherlock.xyz/contests/1212]) |
